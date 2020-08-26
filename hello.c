@@ -2,7 +2,8 @@
 
 int main() {
 
-   printf("Hello, World!");
+   printf("Mason Nieman\n");
+   printf("Computer Science\n");
    return 0;
-   
+
 }
